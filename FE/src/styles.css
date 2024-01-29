@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
+
+* {
+    font-family: 'Bruno Ace', cursive;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+:root {
+    --White: #F9FAF4;
+    --Green: #2a4829;
+    --LightBlue: #543FFF;
+    --MidnightBlue: #0F1219;
+    --Gray: #555E69;
+    --Black: #000000;
+}

@@ -1,0 +1,71 @@
+<mat-sidenav-container class="sidenav-container">
+    <mat-sidenav #drawer class="sidenav shadow-none" fixedInViewport [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+        [mode]="(isHandset$ | async) ? 'over' : 'side'" [opened]="(isHandset$ | async) === false">
+
+        <mat-toolbar class="toolbar-logo d-flex justify-content-center">
+            <img src="../../../../assets/img/others/logo.svg">
+        </mat-toolbar>
+
+        <mat-nav-list>
+
+            <div class="container" *ngIf="modulo === 'Autos' || modulo === 'Administrador'">
+                <button class="btn btn-success" routerLink="/dashboard/cars">
+                    <mat-icon>directions_car</mat-icon>
+                    <span class="mb-1">Autos</span>
+                </button>
+            </div>
+
+            <div class="container" *ngIf="modulo === 'Asesores' || modulo === 'Administrador'">
+                <button class="btn btn-success" routerLink="/dashboard/advisors">
+                    <mat-icon>directions_car</mat-icon>
+                    <span class="mb-1">Asesores</span>
+                </button>
+            </div>
+
+
+            <div class="container" *ngIf="modulo === 'Usados' || modulo === 'Administrador'">
+                <button class="btn btn-success" routerLink="/dashboard/usedCars">
+                    <mat-icon>directions_car</mat-icon>
+                    <span class="mb-1">Usados</span>
+                </button>
+            </div>
+
+            <div class="container" *ngIf="modulo === 'Citas' || modulo === 'Administrador'">
+                <button class="btn btn-success" routerLink="/dashboard/citas">
+                    <mat-icon>event_note</mat-icon>
+                    <span class="mb-1">Citas</span>
+                </button>
+            </div>
+
+            <div class="container" *ngIf="modulo === 'Administrador'">
+                <button class="btn btn-success" routerLink="/dashboard/administrators">
+                    <mat-icon>directions_car</mat-icon>
+                    <span class="mb-1">Admin</span>
+                </button>
+            </div>            
+
+        </mat-nav-list>
+    </mat-sidenav>
+
+    <mat-sidenav-content class="overflow-hidden">
+        <mat-toolbar color="primary" class=" mx-2">
+            <button type="button" aria-label="Toggle sidenav" mat-icon-button (click)="drawer.toggle()"
+              *ngIf="isHandset$ | async">
+                <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+            </button>
+            <span class="text-capitalize"> Bienvenido {{this.nombre}} </span>
+            <span class="example-spacer"></span>
+            <button mat-icon-button class="example-icon" [matMenuTriggerFor]="menu">
+                <mat-icon>more_vert</mat-icon>
+            </button>
+            <mat-menu #menu="matMenu">
+                <button mat-menu-item (click)="cerrarSesion()">
+                    <mat-icon>logout</mat-icon>
+                    <span>Salir</span>
+                </button>
+            </mat-menu>
+
+        </mat-toolbar>
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+</mat-sidenav-container>

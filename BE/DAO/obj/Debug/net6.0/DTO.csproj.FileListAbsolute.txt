@@ -1,0 +1,36 @@
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\bin\Debug\net6.0\DTO.dll
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\bin\Debug\net6.0\DTO.pdb
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.dll
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.pdb
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\bin\Debug\net6.0\DTO.dll
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\bin\Debug\net6.0\DTO.pdb
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.dll
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.pdb
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\bin\Debug\net6.0\DTO.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\bin\Debug\net6.0\DTO.pdb
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\DTO.pdb
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\DAO\obj\Debug\net6.0\ref\DTO.dll

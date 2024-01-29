@@ -1,0 +1,21 @@
+footer{
+    background: var(--White);
+    color: var(--Green);
+    border-radius: 4rem 4rem 0 0;
+}
+
+p{
+    font-size: x-small;
+}
+
+span{
+    color: var(--Green);
+    font-size: x-small;
+}
+
+hr{
+    background-color: var(--Green);
+    opacity: 1;
+    border: none;
+    height: .2rem;
+}

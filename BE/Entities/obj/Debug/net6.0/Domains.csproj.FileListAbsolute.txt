@@ -1,0 +1,42 @@
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.deps.json
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.runtimeconfig.json
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.dll
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.pdb
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.csproj.AssemblyReference.cache
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.AssemblyInfoInputs.cache
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.AssemblyInfo.cs
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.csproj.CoreCompileInputs.cache
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.dll
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\refint\Domains.dll
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.pdb
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.genruntimeconfig.cache
+C:\Users\VILLAMAR\Desktop\Por ahora\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\ref\Domains.dll
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.deps.json
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.runtimeconfig.json
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.dll
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.pdb
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.csproj.AssemblyReference.cache
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.AssemblyInfoInputs.cache
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.AssemblyInfo.cs
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.csproj.CoreCompileInputs.cache
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.dll
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\refint\Domains.dll
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.pdb
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.genruntimeconfig.cache
+C:\Users\VILLAMAR\OneDrive - Universidad de Guayaquil\Universidad\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\ref\Domains.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.deps.json
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.runtimeconfig.json
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\bin\Debug\net6.0\Domains.pdb
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.csproj.AssemblyReference.cache
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.AssemblyInfoInputs.cache
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.AssemblyInfo.cs
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.csproj.CoreCompileInputs.cache
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\refint\Domains.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.pdb
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\Domains.genruntimeconfig.cache
+C:\Users\VILLAMAR\Desktop\Proyectos\AutoAdvisor-Plus\BE-AutoAdvisor-Plus\Entities\obj\Debug\net6.0\ref\Domains.dll
